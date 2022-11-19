@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @refikturk
 - 👀 I’m interested in creating automation framework in Selenium.
-- 🌱 I’m currently learning API.
+- 🌱 I’m currently learning API Testing.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
